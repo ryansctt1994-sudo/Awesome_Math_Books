@@ -127,7 +127,7 @@ https://valeriy.ai
 <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
 </a>
 
-## [Table of Contents]()
+## Table of Contents
 
 * [Math](#math)
 * [Machine_learning](#machine_learning)
@@ -137,7 +137,7 @@ https://valeriy.ai
 * [Information_theory](#information_theory)
 * [Signal_processing](#signal_processing)
 * [History](#history)
-* [Probabiltity](#probability)
+* [Probability](#probability)
 
 ## Math
 
@@ -211,7 +211,7 @@ by Prilepko
 67. [High School Mathematics Part 2](https://archive.org/details/g.-n.-yakovlev-ed.-high-school-mathematics-part-2-mir-1988) by G. N. Yakovlev ( Ed.) 🔥🔥🔥🔥🔥
 68. [Solving Problems In Algebra And Trigonometry](https://archive.org/details/LitivinenkoMordkovichSolvingProblemsInAlgebraAndTrigonometryMir1988)
 by V. Litvinenko; A. Mordkovich
-69. Fundamentals Of Mathematical Analysis, Part I](https://archive.org/details/v.-a.-ilyin-e.-g.-poznyak-fundamentals-of-mathematical-analysis-part-1-mir-1982) by Ilyin, Poznyak
+69. [Fundamentals Of Mathematical Analysis, Part I](https://archive.org/details/v.-a.-ilyin-e.-g.-poznyak-fundamentals-of-mathematical-analysis-part-1-mir-1982) by Ilyin, Poznyak
 70. [Fundamentals Of Mathematical Analysis, Part II](https://archive.org/details/ilyin-poznyak-fundamentals-of-mathematical-analysis)
 by Ilyin, Poznyak
 71. [Questions And Problems In High School Mathematics](https://archive.org/details/l.-a.-kondratyeva-v.-s-solomonik-questions-and-problems-in-high-school-mathematics-mir-1987) by L. A. Kondratyeva; V. S. Solomonik
@@ -268,7 +268,7 @@ by Yu. Borisovich; N. Bliznyakov; Ya. Izrailevich; T. Fomenko
 120. [Calculus](https://archive.org/details/CalculusSpivak/mode/2up) by Spivak 
 121. [Introductory Calculus Textbook Collection](https://archive.org/details/introductory-calculus-book-collection/%28Calculus%29%20Michael%20Spivak%20-%20Combined%20Answer%20Book%20for%20Calculus%20Third%20and%20Fourth%20Editions/) by Michael Spivak
 122. [MATHEMATICS FOR MACHINE LEARNING](https://archive.org/details/mml-book_202310/page/22/mode/2up) by Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong
-123. [Fundamentals Of Linear Algebra And Analytical Geometry](Fundamentals Of Linear Algebra And Analytical Geometry) by Bugrov and Nikolsky
+123. [Fundamentals Of Linear Algebra And Analytical Geometry](https://archive.org/details/bugrov-y.-s.-nikolsky-s.-m-fundamentals-of-linear-algebra-and-analytical-geometry-mir-1982) by Bugrov and Nikolsky
 124. [An Algebra for Secondary Schools](https://archive.org/details/analgebraforsec00hedrgoog/page/n16/mode/2up) by Earle Raymond Hedrick (1908)
 125. [Linear Algebra with Elements of Analytic Geometry](https://archive.org/details/B-001-024-320) by A.S. Solodovnikov, G.A. Toropova
 126. [Pure mathematics, Part I](https://archive.org/details/frank-gerrish.-pure-mathematics-vol-1) by Frank Gerrish
@@ -314,17 +314,17 @@ by A. S. Mishchenko, Yu. P. Solovyev, A. T. Fomenko
 163. [250 problems in elementary number theory](https://archive.org/details/250problemsinele0000sier) by Sierpiński, Wacław, 1882-)
 164. [Theory Of Markov Processes](https://archive.org/details/dynkin-theory-of-markov-processes) by Dynkin
 165. [Markov processes theorems and problems](https://people.math.harvard.edu/~ctm/home/text/class/harvard/219/21/html/home/sources/dynkin.pdf) Dynkin and Yushkevich
-166. 166. [Problems In Descriptive Geometry](https://archive.org/details/arustamov-problems-in-descriptive-geometry-mir-1972/mode/2up) Arustamov
+166. [Problems In Descriptive Geometry](https://archive.org/details/arustamov-problems-in-descriptive-geometry-mir-1972/mode/2up) Arustamov
 167. [Mathematics Its Contents Methods And Meaning Vol 1 2 and 3](https://archive.org/details/MathematicsItsContentsMethodsAndMeaningVol3/Mathematics-%20its%20contents%20methods%20and%20meaning%20Vol%201/mode/2up) 
 by Aleksandrov, Kolmogorov and Lavren'iev
 168. [Solving Problems In Algebra And Trigonometry](https://archive.org/details/LitivinenkoMordkovichSolvingProblemsInAlgebraAndTrigonometryMir1988) by V. Litvinenko; A. Mordkovich
 169. [Linear Algebra Problem Book](https://archive.org/details/linearalgebrapro0000halm_w2r8/mode/2up) by Paul Halmos
 170. [Higher Mathematics for Beginners and Its Application to Physics – Yakov Zeldovich (1973)](https://archive.org/details/zeldovich-higher-mathematics-for-beginners-and-its-application-to-physics-mir-1973)
 171. [A Course Of Mathematical Analysis Vol 1](https://archive.org/details/nikolsky-a-course-of-mathematical-analysis-vol-1-mir?utm_source=chatgpt.com) by S. M. Nikolsky (MIPT core mathematical analysis textbook) 🔥🔥🔥🔥🔥
-172. [[A Course Of Mathematical Analysis Vol 1]](https://archive.org/details/nikolsky-a-course-of-mathematical-analysis-vol-2-mir) by by S. M. Nikolsky  (MIPT core mathematical analysis textbook) 🔥🔥🔥🔥🔥
-173. [Problems In Elementary Mathematics]([https://archive.org/details/ProblemsInMathematicsByV.Lidskii](https://archive.org/details/LidskyOvsyannikovTuliakovShabuninProblemsInElementaryMathematicsMirPublishers)) by V. Lidsky, L. Ovsyannikov, A. Tuliakov and M. Shabunin. A problem-solving companion that ranges across calculus, algebra, and geometry. Offers clear solutions and is perfect for deepening mathematical intuition.
-174. [A Course of Higher Mathematics – V.I. Smirnov (Vol. 1–5)][(https://archive.org/details/ACourseOfHigherMathematics](https://archive.org/search?query=creator%3A%22V.+I.+Smirnov%22)) **  One of the most rigorous and comprehensive advanced math textbooks. Topics include analysis, differential equations, and complex function theory. Excellent for math majors and graduate students.
-175. [The Man Who Counted – Malba Tahan]([https://archive.org/details/the-man-who-counted-malba-tahan](https://archive.org/details/TheManWhoCounted-English-MalbaTahan)) **  A mathematical Arabian Nights: enjoy fables packed with number theory, logic, and elegant problem-solving.
+172. [A Course Of Mathematical Analysis Vol 2](https://archive.org/details/nikolsky-a-course-of-mathematical-analysis-vol-2-mir) by S. M. Nikolsky  (MIPT core mathematical analysis textbook) 🔥🔥🔥🔥🔥
+173. [Problems In Elementary Mathematics](https://archive.org/details/LidskyOvsyannikovTuliakovShabuninProblemsInElementaryMathematicsMirPublishers) by V. Lidsky, L. Ovsyannikov, A. Tuliakov and M. Shabunin. A problem-solving companion that ranges across calculus, algebra, and geometry. Offers clear solutions and is perfect for deepening mathematical intuition.
+174. [A Course of Higher Mathematics – V.I. Smirnov (Vol. 1–5)](https://archive.org/search?query=creator%3A%22V.+I.+Smirnov%22) **  One of the most rigorous and comprehensive advanced math textbooks. Topics include analysis, differential equations, and complex function theory. Excellent for math majors and graduate students.
+175. [The Man Who Counted – Malba Tahan](https://archive.org/details/TheManWhoCounted-English-MalbaTahan) **  A mathematical Arabian Nights: enjoy fables packed with number theory, logic, and elegant problem-solving.
 176. [The Universal History of Numbers – Georges Ifrah](https://archive.org/details/universalhistory0000ifra_y2b9) **  A global, epic journey through how human beings invented and evolved number systems—brilliant and sweeping.
 177. [Zero: The Biography of a Dangerous Idea – Charles Seife](https://archive.org/details/isbn_9780670884575)**  
   A deep dive into the philosophical and mathematical impact of the number zero, from ancient India to modern physics.
@@ -337,8 +337,7 @@ by Aleksandrov, Kolmogorov and Lavren'iev
 182. [Elementary Mathematics ( Selected Topics And Problem Solving)](https://mirtitles.org/2025/02/24/elementary-mathematics-selected-topics-and-problem-solving-by-g-dorofeev-m-potapov-n-rozov/) by G. Dorofeev; M. Potapov; N. Rozov
 183. [Worked Problems In Applied Mathematics](https://mirtitles.org/2024/10/09/worked-problems-in-applied-mathematics-by-n-n-lebedev-i-p-skalskaya-y-s-uflyand/) by N. N. Lebedev; I. P. Skalskaya; Y. S. Uflyand
 184. [Apostol's Calculus,Volume 1, Caltech core math textbook](https://archive.org/details/calculus-tom-m.-apostol-calculus-volume-1-2nd-edition-proper.-1-john-wiley-sons-inc.-1991/%28Calculus%29%20Tom%20M.%20Apostol%20-%20Calculus%2C%20Volume%201%2C%202nd%20Edition%20%28PROPER%29.%201-John%20Wiley%20%26%20Sons%2C%20Inc.%20%281991%29/mode/2up) by Tom M. Apostol
-185. [Apostol's  Calculus,Volume 2, Caltech core math textbook](
-https://archive.org/details/calculus-tom-m.-apostol-calculus-volume-2-2nd-edition-proper-2-1975-wiley-sons-libgen.lc/Apostol%20T.%20M.%20-%20Calculus%20vol%20II%20%281967%29/page/148/mode/2up) by Tom M. Apostol
+185. [Apostol's Calculus, Volume 2, Caltech core math textbook](https://archive.org/details/calculus-tom-m.-apostol-calculus-volume-2-2nd-edition-proper-2-1975-wiley-sons-libgen.lc/Apostol%20T.%20M.%20-%20Calculus%20vol%20II%20%281967%29/page/148/mode/2up) by Tom M. Apostol
 186. [General Topology](https://archive.org/details/generaltopology0000kell) by John Kelley
 187. [A history of probability and statistics and their applications before 1750](https://archive.org/details/historyofprobabi0000hald) by Andres Hald
 188. [The rise of statistical thinking, 1820-1900](https://archive.org/details/riseofstatistica00theo)
